@@ -1,0 +1,13 @@
+---
+title: "Lab7"
+author: "ChenxiGuo"
+date: "01/02/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
